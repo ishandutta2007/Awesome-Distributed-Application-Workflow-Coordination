@@ -67,55 +67,55 @@ The distributed workflow coordination market spans **hyperscaler workflow servic
 | **[Orkes Conductor](https://orkes.io/)** 🎼 | Orkes | ~$240 Million (Valuation) | **$0.005 per workflow execution** (Developer Tier starting at $50/month) | **Free Developer Playground: 1,000 workflow executions/month (No SLA)** | **Managed Netflix Conductor** — **Microservices orchestration** . **Visual workflow designer** . **Built on the open-source Netflix Conductor** . **The most enterprise-ready Conductor platform** . 🎷 |
 | **[Prefect Cloud](https://www.prefect.io/)** 🌊 | Prefect | ~$100 Million (Valuation / Raised $37M+) | **$100/month** (Starter tier; includes 4,500 serverless compute minutes) | **Free Hobby plan: 2 seats, 500 serverless execution minutes/month** | **Modern workflow orchestration** — **Python-native, dynamic workflows** . **Event-driven orchestration and real-time observability** . **The most Pythonic workflow platform** . 🐍 |
 | **[Inngest](https://www.inngest.com/)** ⚡ | Inngest | ~$30 Million (Valuation / Raised $9M+) | **$99/month** (Pro plan) | **Free Hobby plan: 50,000 executions/month & 500k ingested events** | **Event-driven workflow platform** — **Serverless background jobs and workflows** . **Step functions with automatic retries** . **The most developer-friendly event-driven platform** . 🔌 |
-| **[Apache Airflow](https://airflow.apache.org/)** 🏛️ | Apache Software Foundation | Non-Profit Foundation | **Free (Self-Hosted OSS)** / Managed providers start at $0.50/hour | **Open-source free forever** | **The most widely adopted workflow orchestrator** — **DAG-based scheduling** . **34K+ GitHub stars** . **The standard for data pipeline orchestration** . 🌀 |
+| **[Apache Airflow](https://airflow.apache.org/)** 🏛️ | Apache Software Foundation | Non-Profit Foundation | **Free (Self-Hosted OSS)** / Managed providers start at $0.50/hour | **Open-source free forever** | **The most widely adopted workflow orchestrator** — **DAG-based scheduling** . **34K+ GitHub_Stars** . **The standard for data pipeline orchestration** . 🌀 |
 
 ---
 
 ## 🔓 Open-Source GitHub Projects 🔓
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
-  **Fair-code workflow automation platform**, Sustainable Use License. **206K+ GitHub stars** — **Extendable workflow automation with 400+ integrations, native AI agent nodes, and self-hostable privacy** . **Visual node-based orchestration engine** . ⚡
+  **Fair-code workflow automation platform**, Sustainable Use License. **206K+ GitHub_Stars** — **Extendable workflow automation with 400+ integrations, native AI agent nodes, and self-hostable privacy** . **Visual node-based orchestration engine** . ⚡
 
 - **[Huginn](https://github.com/huginn/huginn)** [![Stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers)  
-  **Open-source agent system for workflow automation**, MIT licensed. **44K+ GitHub stars** — **Create automated agents that monitor events, parse data, and perform distributed web tasks** . **The open-source Yahoo! Pipes alternative** . 🤖
+  **Open-source agent system for workflow automation**, MIT licensed. **44K+ GitHub_Stars** — **Create automated agents that monitor events, parse data, and perform distributed web tasks** . **The open-source Yahoo! Pipes alternative** . 🤖
 
 - **[Apache Airflow](https://github.com/apache/airflow)** [![Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)  
-  **The most widely adopted workflow orchestration platform**, Apache-2.0 licensed. **37K+ GitHub stars** — **DAG-based scheduling with Python-defined workflows** . **Massive ecosystem of providers and operators** . **The de facto standard for data pipeline orchestration** . 🏛️
+  **The most widely adopted workflow orchestration platform**, Apache-2.0 licensed. **37K+ GitHub_Stars** — **DAG-based scheduling with Python-defined workflows** . **Massive ecosystem of providers and operators** . **The de facto standard for data pipeline orchestration** . 🏛️
 
 - **[Prefect](https://github.com/PrefectHQ/prefect)** [![Stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social&color=white)](https://github.com/PrefectHQ/prefect/stargazers)  
-  **Modern workflow orchestration framework**, Apache-2.0 licensed. **23K+ GitHub stars** — **Pythonic, dynamic workflow definitions with native async execution, automatic state management, and real-time UI monitoring** . 🌊
+  **Modern workflow orchestration framework**, Apache-2.0 licensed. **23K+ GitHub_Stars** — **Pythonic, dynamic workflow definitions with native async execution, automatic state management, and real-time UI monitoring** . 🌊
 
 - **[Temporal](https://github.com/temporalio/temporal)** [![Stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)  
-  **The leading open-source durable execution platform**, MIT licensed. **22K+ GitHub stars** — **Write workflows in Go, Java, TypeScript, Python, PHP, and .NET** . **Automatic retries, timeouts, and state persistence** . **Used by Netflix, Snap, Stripe, Datadog, and Coinbase** . ⏳
+  **The leading open-source durable execution platform**, MIT licensed. **22K+ GitHub_Stars** — **Write workflows in Go, Java, TypeScript, Python, PHP, and .NET** . **Automatic retries, timeouts, and state persistence** . **Used by Netflix, Snap, Stripe, Datadog, and Coinbase** . ⏳
 
 - **[Argo Workflows](https://github.com/argoproj/argo-workflows)** [![Stars](https://img.shields.io/github/stars/argoproj/argo-workflows?style=social&color=white)](https://github.com/argoproj/argo-workflows/stargazers)  
-  **Kubernetes-native workflow engine**, Apache-2.0 licensed. **15K+ GitHub stars** — **Container-native workflow orchestration for step-based DAGs and parallel microservice processing on Kubernetes** . 🐙
+  **Kubernetes-native workflow engine**, Apache-2.0 licensed. **15K+ GitHub_Stars** — **Container-native workflow orchestration for step-based DAGs and parallel microservice processing on Kubernetes** . 🐙
 
 - **[Windmill](https://github.com/windmill-labs/windmill)** [![Stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers)  
-  **Developer platform to turn scripts into workflows and UIs**, AGPL-3.0 licensed. **13K+ GitHub stars** — **Turn Python, TypeScript, Go, Bash, or SQL scripts into production workflows** with auto-generated UIs . ⚡
+  **Developer platform to turn scripts into workflows and UIs**, AGPL-3.0 licensed. **13K+ GitHub_Stars** — **Turn Python, TypeScript, Go, Bash, or SQL scripts into production workflows** with auto-generated UIs . ⚡
 
 - **[Kestra](https://github.com/kestra-io/kestra)** [![Stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social&color=white)](https://github.com/kestra-io/kestra/stargazers)  
-  **Declarative, YAML-defined orchestration engine**, Apache-2.0 licensed. **13K+ GitHub stars** — **Language-agnostic workflow orchestrator with real-time UI, event-driven triggers, and plugin ecosystem** . 📝
+  **Declarative, YAML-defined orchestration engine**, Apache-2.0 licensed. **13K+ GitHub_Stars** — **Language-agnostic workflow orchestrator with real-time UI, event-driven triggers, and plugin ecosystem** . 📝
 
 - **[Dagster](https://github.com/dagster-io/dagster)** [![Stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers)  
-  **Data orchestration platform for the modern data stack**, Apache-2.0 licensed. **11K+ GitHub stars** — **Asset-centric orchestration, software-defined assets, lineage tracking, and data quality testing** . 🧱
+  **Data orchestration platform for the modern data stack**, Apache-2.0 licensed. **11K+ GitHub_Stars** — **Asset-centric orchestration, software-defined assets, lineage tracking, and data quality testing** . 🧱
 
 - **[Cadence](https://github.com/uber/cadence)** [![Stars](https://img.shields.io/github/stars/uber/cadence?style=social&color=white)](https://github.com/uber/cadence/stargazers)  
-  **Uber's distributed workflow engine**, MIT licensed. **8.8K+ GitHub stars** — **The original durable execution platform powering Uber's trip processing and payments** . **Proven at massive scale** . 🔄
+  **Uber's distributed workflow engine**, MIT licensed. **8.8K+ GitHub_Stars** — **The original durable execution platform powering Uber's trip processing and payments** . **Proven at massive scale** . 🔄
 
 - **[Netflix Conductor](https://github.com/Netflix/conductor)** [![Stars](https://img.shields.io/github/stars/Netflix/conductor?style=social&color=white)](https://github.com/Netflix/conductor/stargazers)  
-  **Microservices orchestration engine**, Apache-2.0 licensed. **8.2K+ GitHub stars** — **JSON DSL for microservice workflow definitions and state machine management** . 🎼
+  **Microservices orchestration engine**, Apache-2.0 licensed. **8.2K+ GitHub_Stars** — **JSON DSL for microservice workflow definitions and state machine management** . 🎼
 
 - **[Flyte](https://github.com/flyteorg/flyte)** [![Stars](https://img.shields.io/github/stars/flyteorg/flyte?style=social&color=white)](https://github.com/flyteorg/flyte/stargazers)  
-  **Scalable & reliable workflow orchestrator for ML and Data**, Apache-2.0 licensed. **7.6K+ GitHub stars** — **Linux Foundation AI & Data project for reproducible machine learning and data pipelines** . ✈️
+  **Scalable & reliable workflow orchestrator for ML and Data**, Apache-2.0 licensed. **7.6K+ GitHub_Stars** — **Linux Foundation AI & Data project for reproducible machine learning and data pipelines** . ✈️
 
 - **[Zeebe (Camunda 8)](https://github.com/camunda/zeebe)** [![Stars](https://img.shields.io/github/stars/camunda/zeebe?style=social&color=white)](https://github.com/camunda/zeebe/stargazers)  
-  **Distributed workflow engine for microservices orchestration**, Apache-2.0 licensed. **3.3K+ GitHub stars** — **BPMN 2.0 execution engine with gRPC API for high-throughput microservices orchestration** . 🎛️
+  **Distributed workflow engine for microservices orchestration**, Apache-2.0 licensed. **3.3K+ GitHub_Stars** — **BPMN 2.0 execution engine with gRPC API for high-throughput microservices orchestration** . 🎛️
 
 - **[Flowable](https://github.com/flowable/flowable-engine)** [![Stars](https://img.shields.io/github/stars/flowable/flowable-engine?style=social&color=white)](https://github.com/flowable/flowable-engine/stargazers)  
-  **BPMN, DMN, and CMMN process engine**, Apache-2.0 licensed. **3.2K+ GitHub stars** — **Complete open-source BPM suite supporting BPMN 2.0, decision tables, and case management** . 🔧
+  **BPMN, DMN, and CMMN process engine**, Apache-2.0 licensed. **3.2K+ GitHub_Stars** — **Complete open-source BPM suite supporting BPMN 2.0, decision tables, and case management** . 🔧
 
 - **[Conductor OSS (Orkes)](https://github.com/conductor-oss/conductor)** [![Stars](https://img.shields.io/github/stars/conductor-oss/conductor?style=social&color=white)](https://github.com/conductor-oss/conductor/stargazers)  
   **Open-source microservices orchestration engine**, Apache-2.0 licensed. **Community distribution of Conductor maintained by Orkes with visual workflow modeling** . 🚀
@@ -128,7 +128,7 @@ Contributions are welcome! Follow these steps to submit new workflow coordinatio
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count, license, and concise technical description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and concise technical description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
